@@ -1,0 +1,6 @@
+Financial Analysis
+------------------
+Total Months: {total_months}
+Total:${total_profit}
+Average Change:${average_profit}
+Greatest Increase in Profits: {max_profit_date} ${max_profit}Greatet Decrease in Profits:{min_profit_date} ${min_profit}
